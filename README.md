@@ -1,7 +1,4 @@
 # Web Developer
-**Lang Lang, Cogon Cruz, Danao City, Cebu 6004, Philippines**  
-**Contact #:** 09172510499  
-**Email:** rgrowengonzales66@gmail.com  
 
 ---
 
@@ -73,19 +70,7 @@
 - **Contact #:** 09172510499  
 - **Email:** rgrowengonzales66@gmail.com  
 
----
 
-## Character References
-- **Ms. Aaren Shaira Mecaros**  
-  Site Head SYSU Cebu, Safexpress Logistics Inc.  
-  Contact: 09975845264  
-
-- **Ms. Lorie Jean Abala**  
-  Admin, Safexpress Logistics Inc.  
-  Contact: 09551037850  
-
-- **Mr. Mark Ginethon Dagondon**  
-  IT Specialist, Fast Logistics Corporation  
   Contact: 09938859109  
 
 ---
