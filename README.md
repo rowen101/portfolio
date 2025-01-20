@@ -71,10 +71,3 @@
 - **Email:** rgrowengonzales66@gmail.com  
 
 
-  Contact: 09938859109  
-
----
-
-I certify that the above information is true and correct to the best of my knowledge and beliefs.  
-
-**Applicant Signature**
